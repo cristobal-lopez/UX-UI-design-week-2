@@ -1,30 +1,39 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Must Haves
 
-## Must-Haves
+> there are necessary features for basic usability the website has complete
+> information the information is concise and clear
 
-> these are necessary for basic usability
+- I want to see a logo so that I can identify the website easily and navigate to
+  the home page from any pages.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - [ ] _There is a clear logo same as link to the home page in the header_.
+
+- I want to easily navigate the site
+
+  - [ ] _There is a navigation bar with links to other pages of the site (Our
+        projects, prices,loans, get free advisory, about us) in the right side
+        of the header._
+
+- I can read what the services that the company offers are.
+
+  - [ ] _there is a section that shows the type of rooms thats the company
+        sells_
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+> A should-have compilation set for the homepage that will complete the user
+> experience, but are not necessary.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+> A could-have compilation set for the homepage that would be really cool to
+> have.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- Could have more animated icons
+  - [ ] _there are bunches of animations._
+- Special effects
+  - [ ] _there are some playlist to play ._
+- Transitions.
+  - [ ] _......._

@@ -1,6 +1,6 @@
-# Name of project
+# UX/UI - Co-Design Your Home Page
 
-> A longer description
+In this module, we will interview our classmates to determine what their needs are and subsequently find a digital solution. 
 
 ## Table of contents
 
@@ -22,19 +22,20 @@
 
 ## General info
 
-> A short description
+> Helping my classmate [Haneefa Shaik](https://github.com/Haneefa-Shaik) with her construction company design using the Double Diamond approach.
 
 ## Screenshots
+![Screenshot 2022-05-03 at 09 59 36](https://user-images.githubusercontent.com/97364283/166421066-006891e6-4b20-4ae1-ab70-1b0f65ecb36c.png)
+![Screenshot 2022-05-03 at 10 10 14](https://user-images.githubusercontent.com/97364283/166422161-b6e87101-7791-4f73-8c0b-bae17477191a.png)
 
-![Example screenshot](./planning/screenshot.jpg)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- Figma
+- HTML and CSS
 
 ## Setup
 
@@ -51,14 +52,16 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
--
--
--
+- Questionnaire made 
+- Interview completed
 
 To-do list:
 
--
--
+- Defining the user personas, a backlog, and an initial design.
+- Figma design.
+- Discussing the design with [Haneefa Shaik](https://github.com/Haneefa-Shaik) with her construction company design using the Double Diamond approach.
+- Coding the website.
+- Creating the retrospective
 
 ## Status
 
@@ -66,11 +69,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by HackYourFuture.be
 
 ## Contact
 
-By [Name]
+By [Cristobal Lopez](https://github.com/cristobal-lopez)
 
 ## Instructions for use
 
